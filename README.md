@@ -64,5 +64,5 @@ These values are formatted and displayed in a table.
 3. Open a terminal in the same directory and run:
 
 ```sh
-javac TaskManager.java
-java TaskManager
+javac TaskManagerTool.java
+java TaskManagerTool
